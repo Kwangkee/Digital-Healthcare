@@ -1,3 +1,7 @@
+***
+Back to https://github.com/Kwangkee/BC
+
+***
 
 ## Using Blockchain Technology to Manage Clinical Trials Data: A Proof-of-Concept Study  
 https://medinform.jmir.org/2018/4/e11949/  
@@ -7,3 +11,6 @@ Results:
 
 Conclusions:  
 >Blockchain technology presents an opportunity to address some of the common threats to the integrity of data collected in clinical trials and ensure that the analysis of these data comply with prespecified plans. Further technical work is needed to add additional functions. Policies must be developed to determine the optimal models for participation in the system by its various stakeholders.
+
+***
+\__Back to https://github.com/Kwangkee/FL\__
