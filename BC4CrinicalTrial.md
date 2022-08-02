@@ -13,4 +13,4 @@ Conclusions:
 >Blockchain technology presents an opportunity to address some of the common threats to the integrity of data collected in clinical trials and ensure that the analysis of these data comply with prespecified plans. Further technical work is needed to add additional functions. Policies must be developed to determine the optimal models for participation in the system by its various stakeholders.
 
 ***
-\__Back to https://github.com/Kwangkee/BC\__
+\_Back to https://github.com/Kwangkee/BC\_
