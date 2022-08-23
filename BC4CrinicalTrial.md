@@ -3,6 +3,11 @@ Back to https://github.com/Kwangkee/BC
 
 ***
 
+## Applications of blockchain technology in clinical trials: review and open challenges
+Applications of blockchain technology in clinical trials: review and open challenges, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=pUuYa_kAAAAJ&sortby=pubdate&citation_for_view=pUuYa_kAAAAJ:9yKSN-GCB0IC  
+Ensuring protocol compliance and data transparency in clinical trials using Blockchain smart contracts, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=pUuYa_kAAAAJ&sortby=pubdate&citation_for_view=pUuYa_kAAAAJ:2osOgNQ5qMEC  
+
+
 ## Using Blockchain Technology to Manage Clinical Trials Data: A Proof-of-Concept Study  
 https://medinform.jmir.org/2018/4/e11949/  
 
