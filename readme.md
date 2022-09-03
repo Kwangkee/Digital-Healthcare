@@ -1,4 +1,5 @@
 
+Blockchain in Life Sciences, https://link.springer.com/book/10.1007/978-981-19-2976-2
 
 ***
 Collaborating to evaluate blockchain in clinical trials, https://www.ibm.com/blockchain/resources/healthcare/#section-7  
