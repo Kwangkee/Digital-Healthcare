@@ -1,3 +1,8 @@
+
+
+***
+Collaborating to evaluate blockchain in clinical trials, https://www.ibm.com/blockchain/resources/healthcare/#section-7  
+
 ***
 BC for Clinical Trial  
 BC4CrinicalTrial, https://github.com/Kwangkee/BC/blob/main/BC4CrinicalTrial.md
