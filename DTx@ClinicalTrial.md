@@ -3,12 +3,8 @@ Back to https://github.com/Kwangkee/Digital-Healthcare
 
 ## Papers
 
-#### https://www.appliedclinicaltrialsonline.com/ 
-- Digital Therapeutics and Decentralized Trials: A Match Made in Clinical, https://www.appliedclinicaltrialsonline.com/view/digital-therapeutics-and-decentralized-trials-a-match-made-in-clinical
-- How Remote Patient Monitoring Technology Can Impact Decentralized Clinical Trials, https://www.appliedclinicaltrialsonline.com/view/how-remote-patient-monitoring-technology-can-impact-decentralized-clinical-trials
-- BlockChain in Clinical Trials—the Ultimate Data Notary, https://www.appliedclinicaltrialsonline.com/view/blockchain-clinical-trials-ultimate-data-notary 
-
 #### https://www.google.com/search?q=Digital+Therapeutics+Decentralized+Clinical+Trials
+- Digital Therapeutics and Decentralized Trials: A Match Made in Clinical, https://www.appliedclinicaltrialsonline.com/view/digital-therapeutics-and-decentralized-trials-a-match-made-in-clinical
 - Unique Considerations in Designing Decentralized Trials for Digital Therapeutics, https://acrpnet.org/2022/06/21/unique-considerations-in-designing-decentralized-trials-for-digital-therapeutics/
 - Prescription Digital Therapeutics, Digital Health Tools, & Decentralized Clinical Trials: How They Interact, https://www.curebase.com/blog/prescription-digital-therapeutics-digital-health-tools-decentralized-clinical-trials-how-they-interact 
 - Digital Therapeutics Companies Lean into Decentralized Clinical Trials, https://www.pm360online.com/digital-therapeutics-companies-lean-into-decentralized-clinical-trials/
