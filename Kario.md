@@ -37,7 +37,24 @@ Digital Therapeutics in Hypertension: Evidence and Perspectives, https://www.aha
 >그러나 현재 연구는 중간 정도의 품질에 불과하며, 평가된 개입, 사용된 대조군 및 얻은 결과에서 매우 이질적이다. 따라서 의료 전문가의 의견과 객관적인 엔드포인트를 가진 강력한 임상시험에서 이러한 개입에 대한 평가로 설계된 보편적으로 적용 가능하고 일관된 디지털 치료 전략의 개발에 초점을 맞춘 추가 연구가 필요하다. 코로나바이러스병 2019 대유행으로 촉발된 디지털 치료의 모멘텀이 이 분야의 발전을 극대화하고 광범위한 구현을 추진하는 데 활용될 수 있기를 바란다.
 
 ![image](https://user-images.githubusercontent.com/109835677/193628967-11daf5b9-b153-426a-94b9-48b65ee56adf.png)
+
+
 ![image](https://user-images.githubusercontent.com/109835677/193629035-eb4bb64c-3f0b-4486-9a36-8901e253d0c4.png)
+>가정용 BP 모니터링(HBPM) 장치를 사용한 BP의 자체 모니터링은 고혈압 환자의 디지털 치료의 또 다른 필수 구성 요소이다(그림 3). 주요 고혈압 지침에서 고혈압의 진단 및 관리를 위해 HBPM을 포함한 사무실 밖 BP 모니터링의 사용이 사무실 BP 모니터링보다 선호된다.21-23 이는 가정 BP가 사무실 BP.34,35보다 심혈관 결과의 더 나은 예측 변수인 것으로 나타났기 때문이다.  
+>**객관적인 HBPM 데이터의 전송은 시간 경과에 따른 BP의 변화(예: 라이프스타일 수정 또는 약물 치료 시작 후)를 평가하는 데 필수적이며, 또 다른 중요한 심혈관 위험 요소인 BP 변동성(박동 대 박동, 일별, 계절 등)에 대한 중요한 정보를 제공한다.36 
+>
+>그러나 홈 BP 레코딩은 정확할 경우에만 유용합니다. 따라서 가정용 BP.21–23,37의 고품질 측정을 위해서는 검증된 HBPM 장치의 사용이 필수적입니다.** 디지털 치료법의 사용이 증가하면 현재 중요한 문제인 적절하게 검증된 HBPM 장치에 대한 접근을 용이하게 하는 데 도움이 될 수 있다.38 그 가치에도 불구하고, HBPM 장치는 현재 어느 나라에서도 상환되지 않고 있으며, 따라서 비용을 지불할 능력이 있는 자에게만 접근이 제한된다. 이와 같은 접근 문제는 디지털 치료법이 광범위하고 공정한 방식으로 구현되려면 극복해야 할 핵심 요소이다.
+
+- Meta-analysis data show that self-monitoring of BP by itself can reduce both systolic and diastolic BP, and increase the proportion of patients with normalization of BP. [39] 
+- Furthermore, data from randomized clinical trials indicate that app-related interventions for enhanced BP self-monitoring and feedback are beneficial for improving BP control, especially when BP control is inadequate. [40] 
+- The addition of other interventions such as education, management of drug therapy, adherence monitoring, counseling, and behavioral interventions—all of which could be incorporated into a digital therapeutics intervention—decreased BP to a greater extent than BP monitoring alone. [41] 
+
+>- 메타분석 자료에 따르면 BP의 자체 모니터링만으로도 수축기 BP와 확장기 BP를 모두 감소시킬 수 있으며, BP의 정상화 환자의 비율을 증가시킬 수 있다. [39]
+>- 또한, 무작위 임상 시험의 데이터는 향상된 BP 자체 모니터링 및 피드백을 위한 앱 관련 개입이 특히 BP 제어가 부적절할 때 BP 제어 개선에 도움이 된다는 것을 나타낸다. [40]
+>- 교육, 약물 치료의 관리, 집착 모니터링, 상담 및 행동 개입과 같은 모든 개입이 디지털 치료 개입에 통합될 수 있는 추가는 BP 모니터링보다 BP를 더 크게 감소시켰다. [41]
+>
+>이러한 메타분석 결과를 바탕으로, 충분하고 최적의 BP 감소를 촉진하기 위해 BP의 자체 모니터링 구현이 다른 개입을 동반해야 한다는 결론을 내렸다. [41] 이는 고혈압 환자의 BP를 효과적으로 줄이고 심혈관 위험을 낮추기 위해 광범위한 조치를 다루는 고품질 디지털 치료 개입이 필요하다는 것을 시사한다.
+
 
 ###
 # Digital therapeutics for essential hypertension using a smartphone application
