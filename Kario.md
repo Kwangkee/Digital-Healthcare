@@ -15,8 +15,8 @@ Back to https://github.com/Kwangkee/Digital-Healthcare
 
 ## 디지터치료제 혈압 큐어앱
 - https://cureapp.co.jp/en/
-- https://www.google.com/search?q=%ED%81%90%EC%96%B4%EC%95%B1
-- https://www.google.com/search?q=%EB%94%94%EC%A7%80%ED%84%B0%EC%B9%98%EB%A3%8C%EC%A0%9C+%ED%98%88%EC%95%95
+- 큐어앱, https://www.google.com/search?q=%ED%81%90%EC%96%B4%EC%95%B1
+- 디지터치료제 혈압, https://www.google.com/search?q=%EB%94%94%EC%A7%80%ED%84%B0%EC%B9%98%EB%A3%8C%EC%A0%9C+%ED%98%88%EC%95%95
 
 ***
 # Digital Hypertension 2023
