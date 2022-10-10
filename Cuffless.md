@@ -41,3 +41,8 @@
 -86. Luo H, Yang D, Barszczyk A, Vempala N, Wei J, Wu SJ, et al. Smartphone Based blood pressure measurement using transdermal optical imaging technology. Circ Cardiovasc Imaging. 2019;12: e008857.
 -87. Lee HY, Lee DJ, Seo J, Ihm SH, Kim KI, Cho EJ, et al. Smartphone/smart‑watch-based cufess blood pressure measurement: a position paper from the Korean Society of Hypertension. Clin Hypertens. 2021;27:4.
 -88. Kim KI, Nikzad N, Quer G, Wineinger NE, Vegreville M, Normand A, et al. Real world home blood pressure variability in over 56,000 individuals with nearly 17 million measurements. Am J Hypertens. 2018;31:566–73.
+
+#### 이해영, https://www.snuh.org/blog/01150/paper.do?hsp_cd=
+- 고혈압 진단 '게임체인저' 될까? 스마트워치의 '도전', https://n.news.naver.com/mnews/article/346/0000037793?sid=103
+- 스마트기기 건강관리 기능, 믿고 사용해도 될까, https://www.kukinews.com/newsView/kuk202206030159 
+
