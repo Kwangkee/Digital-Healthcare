@@ -12,7 +12,7 @@
 - Cuffless blood pressure measuring devices: review and statement by the European Society of Hypertension Working Group on Blood Pressure Monitoring and Cardiovascular Variability, https://journals.lww.com/jhypertension/Fulltext/2022/08000/Cuffless_blood_pressure_measuring_devices__review.2.aspx
   >Conclusion: Cuffless BP devices have considerable potential for changing the diagnosis and management of hypertension. However, fundamental questions regarding their accuracy, performance, and implementation need to be carefully addressed before they can be recommended for clinical use.
 - Cuffless blood pressure devices: the gap between patient acceptability and need for validation, https://journals.lww.com/jhypertension/Citation/2022/11000/Cuffless_blood_pressure_devices__the_gap_between.26.aspx
-  >Conclusion: Although the role of cuffless devices is yet to be established in clinical practice, it is clear that patients express overwhelming preference for cuffless technology compared to classic cuff-based methods.
+  >Conclusion: However, cuffless BP device accuracy is yet to be determined, with appropriate cuffless device validation protocols still under development. Given the high proportion of people with undiagnosed hypertension in the community, there is need to balance high participant acceptability and need for increased BP awareness in the community with fundamental concerns about accuracy [1].
 
 - [유럽고혈압학회] 스마트워치 등 '커프 없는 혈압계' 임상 활용 부적절
 - George Stergiou, https://scholar.google.com/citations?hl=en&user=Yyo2U8sAAAAJ&view_op=list_works&sortby=pubdate
