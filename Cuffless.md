@@ -32,10 +32,10 @@
 - [86, rPPG: Kang Lee] Smartphone-Based blood pressure measurement using transdermal optical imaging technology, https://www.ahajournals.org/doi/10.1161/CIRCIMAGING.119.008857
 
 #### References
-- 83. Dey J, Gaurav A, Tiwari VN. InstaBP: cuf-less blood pressure monitoring on smartphone using single PPG sensor. Annu Int Conf IEEE Eng Med Biol Soc. 2018;2018:5002–5.
-- 84. Matsumura K, Rolfe P, Toda S, Yamakoshi T. Cufess blood pressure estimation using only a smartphone. Sci Rep. 2018;8:7298.
-- 85. Association for the Advancement of Medical Instrumentation (AAMI). Non-invasive sphygmomanometers. Part 1: requirements and test methods for non-automated measurement type. (ANSI/AAMI/ISO
+-83. Dey J, Gaurav A, Tiwari VN. InstaBP: cuf-less blood pressure monitoring on smartphone using single PPG sensor. Annu Int Conf IEEE Eng Med Biol Soc. 2018;2018:5002–5.
+-84. Matsumura K, Rolfe P, Toda S, Yamakoshi T. Cufess blood pressure estimation using only a smartphone. Sci Rep. 2018;8:7298.
+-85. Association for the Advancement of Medical Instrumentation (AAMI). Non-invasive sphygmomanometers. Part 1: requirements and test methods for non-automated measurement type. (ANSI/AAMI/ISO
 81060–1:2007 [R2013]). Arlington: AAMI; 2007.
-- 86. Luo H, Yang D, Barszczyk A, Vempala N, Wei J, Wu SJ, et al. Smartphone Based blood pressure measurement using transdermal optical imaging technology. Circ Cardiovasc Imaging. 2019;12: e008857.
-- 87. Lee HY, Lee DJ, Seo J, Ihm SH, Kim KI, Cho EJ, et al. Smartphone/smart‑watch-based cufess blood pressure measurement: a position paper from the Korean Society of Hypertension. Clin Hypertens. 2021;27:4.
-- 88. Kim KI, Nikzad N, Quer G, Wineinger NE, Vegreville M, Normand A, et al. Real world home blood pressure variability in over 56,000 individuals with nearly 17 million measurements. Am J Hypertens. 2018;31:566–73.
+-86. Luo H, Yang D, Barszczyk A, Vempala N, Wei J, Wu SJ, et al. Smartphone Based blood pressure measurement using transdermal optical imaging technology. Circ Cardiovasc Imaging. 2019;12: e008857.
+-87. Lee HY, Lee DJ, Seo J, Ihm SH, Kim KI, Cho EJ, et al. Smartphone/smart‑watch-based cufess blood pressure measurement: a position paper from the Korean Society of Hypertension. Clin Hypertens. 2021;27:4.
+-88. Kim KI, Nikzad N, Quer G, Wineinger NE, Vegreville M, Normand A, et al. Real world home blood pressure variability in over 56,000 individuals with nearly 17 million measurements. Am J Hypertens. 2018;31:566–73.
