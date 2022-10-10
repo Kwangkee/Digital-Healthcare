@@ -1,17 +1,20 @@
 
 
 
-## 
-- [2021, 대한고혈압학회] Smartphone / smartwatch-based cuffless blood pressure measurement : a position paper from the Korean Society of Hypertension, https://clinicalhypertension.biomedcentral.com/articles/10.1186/s40885-020-00158-8
+## 대한고혈압학회
+- [2021] Smartphone / smartwatch-based cuffless blood pressure measurement : a position paper from the Korean Society of Hypertension, https://clinicalhypertension.biomedcentral.com/articles/10.1186/s40885-020-00158-8
 - 스마트폰·워치, 아직은 ‘혈압범위’ 확인 수준, http://www.mostonline.co.kr/news/articleView.html?idxno=96994
 
+- [2022] Home blood pressure monitoring: a position statement from the Korean Society of Hypertension Home Blood Pressure Forum, https://clinicalhypertension.biomedcentral.com/articles/10.1186/s40885-022-00218-1
+
+## 대한고혈압학회
 - ARE COMMERCIAL CUFFLESS BLOOD PRESSURE DEVICES BEING VALIDATED?, https://journals.lww.com/jhypertension/Abstract/2022/06001/ARE_COMMERCIAL_CUFFLESS_BLOOD_PRESSURE_DEVICES.248.aspx
 - Cuffless blood pressure measuring devices: review and statement by the European Society of Hypertension Working Group on Blood Pressure Monitoring and Cardiovascular Variability, https://journals.lww.com/jhypertension/Fulltext/2022/08000/Cuffless_blood_pressure_measuring_devices__review.2.aspx
 - [유럽고혈압학회] 스마트워치 등 '커프 없는 혈압계' 임상 활용 부적절
 - George Stergiou, https://scholar.google.com/citations?hl=en&user=Yyo2U8sAAAAJ&view_op=list_works&sortby=pubdate
 
 
-- [2022] Home blood pressure monitoring: a position statement from the Korean Society of Hypertension Home Blood Pressure Forum, https://clinicalhypertension.biomedcentral.com/articles/10.1186/s40885-022-00218-1
+
 
 
 ## Home blood pressure monitoring
