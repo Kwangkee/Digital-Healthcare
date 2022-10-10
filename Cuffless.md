@@ -10,6 +10,7 @@
 ## European Society of Hypertension
 - ARE COMMERCIAL CUFFLESS BLOOD PRESSURE DEVICES BEING VALIDATED?, https://journals.lww.com/jhypertension/Abstract/2022/06001/ARE_COMMERCIAL_CUFFLESS_BLOOD_PRESSURE_DEVICES.248.aspx
 - Cuffless blood pressure measuring devices: review and statement by the European Society of Hypertension Working Group on Blood Pressure Monitoring and Cardiovascular Variability, https://journals.lww.com/jhypertension/Fulltext/2022/08000/Cuffless_blood_pressure_measuring_devices__review.2.aspx
+  >Conclusion: Cuffless BP devices have considerable potential for changing the diagnosis and management of hypertension. However, fundamental questions regarding their accuracy, performance, and implementation need to be carefully addressed before they can be recommended for clinical use.
 - Cuffless blood pressure devices: the gap between patient acceptability and need for validation, https://journals.lww.com/jhypertension/Citation/2022/11000/Cuffless_blood_pressure_devices__the_gap_between.26.aspx
   >Although the role of cuffless devices is yet to be established in clinical practice, it is clear that patients express overwhelming preference for cuffless technology compared to classic cuff-based methods.
 
