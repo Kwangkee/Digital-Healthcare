@@ -7,9 +7,12 @@
 
 - [2022] Home blood pressure monitoring: a position statement from the Korean Society of Hypertension Home Blood Pressure Forum, https://clinicalhypertension.biomedcentral.com/articles/10.1186/s40885-022-00218-1
 
-## 대한고혈압학회
+## European Society of Hypertension
 - ARE COMMERCIAL CUFFLESS BLOOD PRESSURE DEVICES BEING VALIDATED?, https://journals.lww.com/jhypertension/Abstract/2022/06001/ARE_COMMERCIAL_CUFFLESS_BLOOD_PRESSURE_DEVICES.248.aspx
 - Cuffless blood pressure measuring devices: review and statement by the European Society of Hypertension Working Group on Blood Pressure Monitoring and Cardiovascular Variability, https://journals.lww.com/jhypertension/Fulltext/2022/08000/Cuffless_blood_pressure_measuring_devices__review.2.aspx
+- Cuffless blood pressure devices: the gap between patient acceptability and need for validation, https://journals.lww.com/jhypertension/Citation/2022/11000/Cuffless_blood_pressure_devices__the_gap_between.26.aspx
+  >Although the role of cuffless devices is yet to be established in clinical practice, it is clear that patients express overwhelming preference for cuffless technology compared to classic cuff-based methods.
+
 - [유럽고혈압학회] 스마트워치 등 '커프 없는 혈압계' 임상 활용 부적절
 - George Stergiou, https://scholar.google.com/citations?hl=en&user=Yyo2U8sAAAAJ&view_op=list_works&sortby=pubdate
 
@@ -17,7 +20,7 @@
 
 
 
-## Home blood pressure monitoring
+## Home blood pressure monitoring: a position statement from the Korean Society of Hypertension Home Blood Pressure Forum
 - Home blood pressure monitoring: a position statement from the Korean Society of Hypertension Home Blood Pressure Forum, https://clinicalhypertension.biomedcentral.com/articles/10.1186/s40885-022-00218-1
 
 - **3. Finger device is not recommended, and wrist device is not inaccurate if it is not placed at heart level**
