@@ -25,7 +25,7 @@
 ## Home blood pressure monitoring: a position statement from the Korean Society of Hypertension Home Blood Pressure Forum
 - Home blood pressure monitoring: a position statement from the Korean Society of Hypertension Home Blood Pressure Forum, https://clinicalhypertension.biomedcentral.com/articles/10.1186/s40885-022-00218-1
 
-- **3. Finger device is not recommended, and wrist device is not inaccurate if it is not placed at heart level**
+  >**3. Finger device is not recommended, and wrist device is not inaccurate if it is not placed at heart level**
 
 - [대한고혈압학회] 가정혈압 관리지침, https://www.koreanhypertension.org/reference/guide?mode=read&idno=4510
 ![image](https://user-images.githubusercontent.com/109835677/194841475-c1123e71-46d7-49cb-bbb5-d30df7fa2829.png)
