@@ -16,7 +16,7 @@
   >Conclusion: However, cuffless BP device accuracy is yet to be determined, with appropriate cuffless device validation protocols still under development. Given the high proportion of people with undiagnosed hypertension in the community, there is need to balance high participant acceptability and need for increased BP awareness in the community with fundamental concerns about accuracy [1].
 - George Stergiou, https://scholar.google.com/citations?hl=en&user=Yyo2U8sAAAAJ&view_op=list_works&sortby=pubdate
 
-- [유럽고혈압학회] 스마트워치 등 '커프 없는 혈압계' 임상 활용 부적절
+- [유럽고혈압학회] 스마트워치 등 '커프 없는 혈압계' 임상 활용 부적절, http://www.monews.co.kr/news/articleView.html?idxno=313379
 
 
 
