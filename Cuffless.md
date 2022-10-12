@@ -19,8 +19,7 @@
 - [유럽고혈압학회] 스마트워치 등 '커프 없는 혈압계' 임상 활용 부적절, http://www.monews.co.kr/news/articleView.html?idxno=313379
 
 
-
-
+***
 
 ## Home blood pressure monitoring: a position statement from the Korean Society of Hypertension Home Blood Pressure Forum
 - Home blood pressure monitoring: a position statement from the Korean Society of Hypertension Home Blood Pressure Forum, https://clinicalhypertension.biomedcentral.com/articles/10.1186/s40885-022-00218-1
