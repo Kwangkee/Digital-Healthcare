@@ -1,15 +1,16 @@
 
 
 
-## 대한고혈압학회, https://www.koreanhypertension.org/
-- [2021] Smartphone / smartwatch-based cuffless blood pressure measurement : a position paper from the Korean Society of Hypertension, https://clinicalhypertension.biomedcentral.com/articles/10.1186/s40885-020-00158-8
-- 스마트폰·워치, 아직은 ‘혈압범위’ 확인 수준, http://www.mostonline.co.kr/news/articleView.html?idxno=96994
+## list
 
-- [2022] [[Home blood pressure monitoring: a position statement from the Korean Society of Hypertension Home Blood Pressure Forum](https://github.com/Kwangkee/Digital-Healthcare/blob/main/Cuffless.md#home-blood-pressure-monitoring-a-position-statement-from-the-korean-society-of-hypertension-home-blood-pressure-forum)], https://clinicalhypertension.biomedcentral.com/articles/10.1186/s40885-022-00218-1
-
-## [[European Society of Hypertension](https://github.com/Kwangkee/Digital-Healthcare/blob/main/Cuffless.md#european-society-of-hypertension)]
+- [[Korean Society of Hypertension]()]
+- [[European Society of Hypertension](https://github.com/Kwangkee/Digital-Healthcare/blob/main/Cuffless.md#european-society-of-hypertension)]
 
 ***
+
+## Korean Society of Hypertension
+- [2021] Smartphone / smartwatch-based cuffless blood pressure measurement : a position paper from the Korean Society of Hypertension, https://clinicalhypertension.biomedcentral.com/articles/10.1186/s40885-020-00158-8
+- 스마트폰·워치, 아직은 ‘혈압범위’ 확인 수준, http://www.mostonline.co.kr/news/articleView.html?idxno=96994
 
 ## Home blood pressure monitoring: a position statement from the Korean Society of Hypertension Home Blood Pressure Forum
 - Home blood pressure monitoring: a position statement from the Korean Society of Hypertension Home Blood Pressure Forum, https://clinicalhypertension.biomedcentral.com/articles/10.1186/s40885-022-00218-1
