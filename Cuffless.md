@@ -3,7 +3,7 @@
 
 ## list
 
-- [[Korean Society of Hypertension]()]
+- [[Korean Society of Hypertension](https://github.com/Kwangkee/Digital-Healthcare/blob/main/Cuffless.md#korean-society-of-hypertension)]
 - [[European Society of Hypertension](https://github.com/Kwangkee/Digital-Healthcare/blob/main/Cuffless.md#european-society-of-hypertension)]
 
 ***
