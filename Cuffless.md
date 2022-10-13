@@ -6,6 +6,11 @@
 - [[Korean Society of Hypertension](https://github.com/Kwangkee/Digital-Healthcare/blob/main/Cuffless.md#korean-society-of-hypertension)]
 - [[European Society of Hypertension](https://github.com/Kwangkee/Digital-Healthcare/blob/main/Cuffless.md#european-society-of-hypertension)]
 
+
+- Role of Coexisting ECG Anomalies in the Accuracy of Smartwatch ECG Detection of Atrial Fibrillation, https://www.onlinecjc.ca/article/S0828-282X(22)00756-5/fulltext
+  >- "스마트워치 심전도 시기상조…5명 중 1명은 진단 실패", https://www.medicaltimes.com/Main/News/NewsView.html?ID=1149937
+ 
+
 ***
 
 ## Korean Society of Hypertension
