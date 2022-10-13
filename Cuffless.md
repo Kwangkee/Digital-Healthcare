@@ -8,8 +8,8 @@
 
 
 - Role of Coexisting ECG Anomalies in the Accuracy of Smartwatch ECG Detection of Atrial Fibrillation, https://www.onlinecjc.ca/article/S0828-282X(22)00756-5/fulltext
-- "스마트워치 심전도 시기상조…5명 중 1명은 진단 실패", https://www.medicaltimes.com/Main/News/NewsView.html?ID=1149937
->마크 스트라이크 교수는 "스마트워치 심전도의 알고리즘이 주기 변동성에만 기반을 두고 있기 때문에 이러한 위양성과 위음성 문제는 예견됐던 일"이라며 "주기적 변동성을 모델로 한 모든 알고리즘은 빈맥이나 심방조동 등을 감지하는데 매우 정확도가 떨어진다"고 지적했다.
+ >- "스마트워치 심전도 시기상조…5명 중 1명은 진단 실패", https://www.medicaltimes.com/Main/News/NewsView.html?ID=1149937
+ >마크 스트라이크 교수는 "스마트워치 심전도의 알고리즘이 주기 변동성에만 기반을 두고 있기 때문에 이러한 위양성과 위음성 문제는 예견됐던 일"이라며 "주기적 변동성을 모델로 한 모든 알고리즘은 빈맥이나 심방조동 등을 감지하는데 매우 정확도가 떨어진다"고 지적했다.
 
 
  
