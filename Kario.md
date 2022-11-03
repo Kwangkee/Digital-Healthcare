@@ -15,6 +15,7 @@ Back to https://github.com/Kwangkee/Digital-Healthcare
 
 ## 디지터치료제 혈압 큐어앱
 - https://cureapp.co.jp/en/
+- 일본, 고혈압 환자 생활습관 개선 디지털치료제 건강보험 급여 적용, https://www.medigatenews.com/news/2883383683
 - 큐어앱, https://www.google.com/search?q=%ED%81%90%EC%96%B4%EC%95%B1
 - 디지터치료제 혈압, https://www.google.com/search?q=%EB%94%94%EC%A7%80%ED%84%B0%EC%B9%98%EB%A3%8C%EC%A0%9C+%ED%98%88%EC%95%95
 
