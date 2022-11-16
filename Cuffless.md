@@ -57,3 +57,10 @@
 - George Stergiou, https://scholar.google.com/citations?hl=en&user=Yyo2U8sAAAAJ&view_op=list_works&sortby=pubdate
 
 - [유럽고혈압학회] 스마트워치 등 '커프 없는 혈압계' 임상 활용 부적절, http://www.monews.co.kr/news/articleView.html?idxno=313379
+
+***
+
+## Cuffless BP
+- Toshiyo Tamura, https://scholar.google.com/citations?hl=en&user=z72Gli4AAAAJ&view_op=list_works&sortby=pubdate
+- Cuffless Blood Pressure Monitors: Principles, Standards and Approval for Medical Use, https://www.jstage.jst.go.jp/article/transcom/E104.B/6/E104.B_2020HMI0002/_article/-char/ja/
+- Progress of Home Healthcare Sensor in Our Experience: Development of Wearable and Unobtrusive Monitoring, https://www.jstage.jst.go.jp/article/abe/9/0/9_9_189/_article/-char/ja/
