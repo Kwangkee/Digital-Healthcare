@@ -11,7 +11,8 @@ Blockchain in Healthcare Today, https://blockchainhealthcaretoday.com/index.php/
 - A Patient-Centric Health Information Exchange Framework Using Blockchain Technology, https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9090282
 
 ***
-## Re-engineering a Clinical Trial Management System Using Blockchain Technology: System Design, Development, and Case Studies, https://www.jmir.org/2022/6/e36774/
+## Re-engineering a Clinical Trial Management System Using Blockchain Technology
+- Re-engineering a Clinical Trial Management System Using Blockchain Technology: System Design, Development, and Case Studies, https://www.jmir.org/2022/6/e36774/
 - Re-engineering Clinical Trial Management System Using Blockchain Technology, https://blockchainhealthcaretoday.com/index.php/journal/article/view/215
 
 ![image](https://user-images.githubusercontent.com/109835677/208403426-90de7204-6271-4fe5-ae51-70fc876021d4.png)
