@@ -1,6 +1,28 @@
 ***
 Back to https://github.com/Kwangkee/BC
 
+*** 
+Blockchain in Healthcare Today, https://blockchainhealthcaretoday.com/index.php/journal/index
+
+***
+## Yan Zhuang, https://scholar.google.com/citations?hl=en&user=ISEhE10AAAAJ&view_op=list_works&sortby=pubdate
+
+### Re-engineering a Clinical Trial Management System Using Blockchain Technology: System Design, Development, and Case Studies, https://www.jmir.org/2022/6/e36774/
+- Re-engineering Clinical Trial Management System Using Blockchain Technology, https://blockchainhealthcaretoday.com/index.php/journal/article/view/215
+- Quorum
+>-	https://steemit.com/kr/@andybclee/jp-morgan-quorum
+>-	https://portalcripto.com.br/ko/%EC%BF%BC%EB%9F%BC-jp-%EB%AA%A8%EA%B1%B4-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EA%B8%88%EC%9C%B5-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%B4%EB%9E%80%3F/
+>-	https://github.com/ConsenSys/quorum
+
+- Future Work
+>Our future work will continue to investigate the needs of the clinical trial process and add more comprehensive functions to the proposed blockchain-based CTMS architecture, such as adding machine learning tools to monitor patient conditions persistently and predict side effects and overall outcomes. The current safety monitoring process described in the Study Conduct section relies on the EDC process. However, the Data and Safety Monitoring Board convenes only when the clinical trial has been conducted for a while and the data have met a certain point. Adding artificial intelligence components to the Study Conduct module can achieve more efficient monitoring. We will also investigate more potential in CTMS design using blockchain technology, such as integrating secure multiparty computation with blockchain for computational applications such as subject matching and using the cryptocurrency concept to build a novel CTMS that will help ensure timely validation and payment.  
+
+- CTMS: What You Should Know, https://www.appliedclinicaltrialsonline.com/view/ctms-what-you-should-know
+
+
+- Development of A blockchain framework for virtual clinical trials, https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ISEhE10AAAAJ&sortby=pubdate&citation_for_view=ISEhE10AAAAJ:Tyk-4Ss8FVUC
+- A Patient-Centric Health Information Exchange Framework Using Blockchain Technology, https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9090282
+
 ***
 
 ## Applications of blockchain technology in clinical trials: review and open challenges
