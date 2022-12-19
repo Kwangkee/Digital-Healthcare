@@ -13,6 +13,9 @@ Blockchain in Healthcare Today, https://blockchainhealthcaretoday.com/index.php/
 ***
 ## Re-engineering a Clinical Trial Management System Using Blockchain Technology: System Design, Development, and Case Studies, https://www.jmir.org/2022/6/e36774/
 - Re-engineering Clinical Trial Management System Using Blockchain Technology, https://blockchainhealthcaretoday.com/index.php/journal/article/view/215
+
+![image](https://user-images.githubusercontent.com/109835677/208403426-90de7204-6271-4fe5-ae51-70fc876021d4.png)
+
 - Quorum
 >-	https://steemit.com/kr/@andybclee/jp-morgan-quorum
 >-	https://portalcripto.com.br/ko/%EC%BF%BC%EB%9F%BC-jp-%EB%AA%A8%EA%B1%B4-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EA%B8%88%EC%9C%B5-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%B4%EB%9E%80%3F/
