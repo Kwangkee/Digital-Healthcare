@@ -1,5 +1,5 @@
 ***
-Back to https://github.com/Kwangkee/BC
+Back to https://github.com/Kwangkee/Digital-Healthcare
 
 *** 
 Blockchain in Healthcare Today, https://blockchainhealthcaretoday.com/index.php/journal/index
@@ -49,4 +49,4 @@ Conclusions:
 >Blockchain technology presents an opportunity to address some of the common threats to the integrity of data collected in clinical trials and ensure that the analysis of these data comply with prespecified plans. Further technical work is needed to add additional functions. Policies must be developed to determine the optimal models for participation in the system by its various stakeholders.
 
 ***
-Back to https://github.com/Kwangkee/BC
+Back to https://github.com/Kwangkee/Digital-Healthcare
