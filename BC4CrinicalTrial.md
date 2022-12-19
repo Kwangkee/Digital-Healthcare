@@ -6,7 +6,7 @@ Blockchain in Healthcare Today, https://blockchainhealthcaretoday.com/index.php/
 
 ***
 ## Yan Zhuang, https://scholar.google.com/citations?hl=en&user=ISEhE10AAAAJ&view_op=list_works&sortby=pubdate
-- Re-engineering Clinical Trial Management System Using Blockchain Technology, https://blockchainhealthcaretoday.com/index.php/journal/article/view/215
+- Re-engineering a Clinical Trial Management System Using Blockchain Technology: System Design, Development, and Case Studies, https://www.jmir.org/2022/6/e36774/
 - Development of A blockchain framework for virtual clinical trials, https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ISEhE10AAAAJ&sortby=pubdate&citation_for_view=ISEhE10AAAAJ:Tyk-4Ss8FVUC
 - A Patient-Centric Health Information Exchange Framework Using Blockchain Technology, https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9090282
 
