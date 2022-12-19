@@ -22,8 +22,11 @@ Blockchain in Healthcare Today, https://blockchainhealthcaretoday.com/index.php/
 >-	https://github.com/ConsenSys/quorum
 
 - Future Work
->Our future work will continue to investigate the needs of the clinical trial process and add more comprehensive functions to the proposed blockchain-based CTMS architecture, such as adding machine learning tools to monitor patient conditions persistently and predict side effects and overall outcomes. The current safety monitoring process described in the Study Conduct section relies on the EDC process. However, the Data and Safety Monitoring Board convenes only when the clinical trial has been conducted for a while and the data have met a certain point. Adding artificial intelligence components to the Study Conduct module can achieve more efficient monitoring. We will also investigate more potential in CTMS design using blockchain technology, such as integrating secure multiparty computation with blockchain for computational applications such as subject matching and using the cryptocurrency concept to build a novel CTMS that will help ensure timely validation and payment.  
+>Our future work will continue to investigate the needs of the clinical trial process and add more comprehensive functions to the proposed blockchain-based CTMS architecture, such as **adding machine learning tools to monitor patient conditions persistently and predict side effects and overall outcomes**. 
+>- The current safety monitoring process described in the Study Conduct section relies on the EDC process. However, the Data and Safety Monitoring Board convenes only when the clinical trial has been conducted for a while and the data have met a certain point. **Adding artificial intelligence components to the Study Conduct module can achieve more efficient monitoring.** 
+>- We will also investigate more potential in CTMS design using blockchain technology, such as integrating secure multiparty computation with blockchain for computational applications such as subject matching and using the cryptocurrency concept to build a novel CTMS that will help ensure timely validation and payment.  
 
+[References]  
 - CTMS: What You Should Know, https://www.appliedclinicaltrialsonline.com/view/ctms-what-you-should-know
 
 
