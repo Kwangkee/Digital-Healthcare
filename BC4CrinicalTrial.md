@@ -26,9 +26,9 @@ Back to https://github.com/Kwangkee/Digital-Healthcare
 - Development of A blockchain framework for virtual clinical trials, https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ISEhE10AAAAJ&sortby=pubdate&citation_for_view=ISEhE10AAAAJ:Tyk-4Ss8FVUC
 
 #### System Design
-(1) Patient Recruitment module: a smart contract that automatically matches potential subjects, asks matched patients for consent to join the VCT, and generates a specific trial contract for each VCT that is only accessible to the participants. 
-(2) Patient Engagement module: a smart contract to allow patients to input data and interact with clinical trial sponsors or principal investigators, and 
-(3) Persistent Monitoring module: a smart contract to persistently monitor anomalies through the analytics tool, either installed on the sponsor’s node or embedded inside the monitor contract.
+(1) Patient Recruitment module: a smart contract that automatically matches potential subjects, asks matched patients for consent to join the VCT, and generates a specific trial contract for each VCT that is only accessible to the participants.  
+(2) Patient Engagement module: a smart contract to allow patients to input data and interact with clinical trial sponsors or principal investigators, and  
+(3) Persistent Monitoring module: a smart contract to persistently monitor anomalies through the analytics tool, either installed on the sponsor’s node or embedded inside the monitor contract.  
 ![image](https://user-images.githubusercontent.com/109835677/208568531-22f3aade-51c3-44b2-aa3a-96d34c2bf431.png)
 
 ***
