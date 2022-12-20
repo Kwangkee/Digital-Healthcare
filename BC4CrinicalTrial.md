@@ -17,6 +17,12 @@ Back to https://github.com/Kwangkee/Digital-Healthcare
 - A Patient-Centric Health Information Exchange Framework Using Blockchain Technology, https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9090282
 
 ***
+## Ilhaam Aziz Omar
+- Ilhaam Aziz Omar, https://scholar.google.com/citations?hl=ko&user=pUuYa_kAAAAJ&view_op=list_works&sortby=pubdate
+- Applications of blockchain technology in clinical trials: review and open challenges, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=pUuYa_kAAAAJ&sortby=pubdate&citation_for_view=pUuYa_kAAAAJ:9yKSN-GCB0IC  
+- Ensuring protocol compliance and data transparency in clinical trials using Blockchain smart contracts, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=pUuYa_kAAAAJ&sortby=pubdate&citation_for_view=pUuYa_kAAAAJ:2osOgNQ5qMEC  
+
+***
 ## Re-engineering a Clinical Trial Management System Using Blockchain Technology
 - Re-engineering a Clinical Trial Management System Using Blockchain Technology: System Design, Development, and Case Studies, https://www.jmir.org/2022/6/e36774/
 - Re-engineering Clinical Trial Management System Using Blockchain Technology, https://blockchainhealthcaretoday.com/index.php/journal/article/view/215
@@ -38,11 +44,6 @@ Back to https://github.com/Kwangkee/Digital-Healthcare
 
 
 ***
-## Applications of blockchain technology in clinical trials: review and open challenges
-Applications of blockchain technology in clinical trials: review and open challenges, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=pUuYa_kAAAAJ&sortby=pubdate&citation_for_view=pUuYa_kAAAAJ:9yKSN-GCB0IC  
-Ensuring protocol compliance and data transparency in clinical trials using Blockchain smart contracts, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=pUuYa_kAAAAJ&sortby=pubdate&citation_for_view=pUuYa_kAAAAJ:2osOgNQ5qMEC  
-
-
 ## Using Blockchain Technology to Manage Clinical Trials Data: A Proof-of-Concept Study  
 https://medinform.jmir.org/2018/4/e11949/  
 
