@@ -2,7 +2,12 @@
 Back to https://github.com/Kwangkee/Digital-Healthcare
 
 *** 
-Blockchain in Healthcare Today, https://blockchainhealthcaretoday.com/index.php/journal/index
+##Blockchain in Healthcare Today
+- Blockchain in Healthcare Today, https://blockchainhealthcaretoday.com/index.php/journal/index
+- Re-engineering Clinical Trial Management System Using Blockchain Technology, https://blockchainhealthcaretoday.com/index.php/journal/article/view/215
+- Commercially Successful Blockchain Healthcare Projects: A Scoping Review, https://blockchainhealthcaretoday.com/index.php/journal/article/view/166
+
+
 
 ***
 ## Yan Zhuang
@@ -33,7 +38,6 @@ Blockchain in Healthcare Today, https://blockchainhealthcaretoday.com/index.php/
 
 
 ***
-
 ## Applications of blockchain technology in clinical trials: review and open challenges
 Applications of blockchain technology in clinical trials: review and open challenges, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=pUuYa_kAAAAJ&sortby=pubdate&citation_for_view=pUuYa_kAAAAJ:9yKSN-GCB0IC  
 Ensuring protocol compliance and data transparency in clinical trials using Blockchain smart contracts, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=pUuYa_kAAAAJ&sortby=pubdate&citation_for_view=pUuYa_kAAAAJ:2osOgNQ5qMEC  
