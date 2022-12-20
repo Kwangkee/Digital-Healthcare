@@ -14,6 +14,8 @@ Back to https://github.com/Kwangkee/Digital-Healthcare
 - [[Re-engineering a Clinical Trial Management System Using Blockchain Technology](https://github.com/Kwangkee/Digital-Healthcare/blob/main/BC4CrinicalTrial.md#re-engineering-a-clinical-trial-management-system-using-blockchain-technology)], https://www.jmir.org/2022/6/e36774/
 - Development of A blockchain framework for virtual clinical trials, https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ISEhE10AAAAJ&sortby=pubdate&citation_for_view=ISEhE10AAAAJ:Tyk-4Ss8FVUC
 - A Patient-Centric Health Information Exchange Framework Using Blockchain Technology, https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9090282
+>- patient-centric HIE designs that shift data ownership from providers to patients  
+>- Utilizing the smart contract feature, which is a programmable self-executing protocol running on a blockchain, we developed a blockchain model to protect data security and patients’ privacy, ensure data provenance, and provide patients full control of their health records. By personalizing data segmentation and an “allowed list” for clinicians to access their data, this design achieves patient-centric HIE.  
 
 ***
 ## Researcher: Ilhaam Aziz Omar
