@@ -10,14 +10,14 @@ Back to https://github.com/Kwangkee/Digital-Healthcare
 
 
 ***
-## Yan Zhuang
+## Researcher: Yan Zhuang
 - Yan Zhuang, https://scholar.google.com/citations?hl=en&user=ISEhE10AAAAJ&view_op=list_works&sortby=pubdate
 - [[Re-engineering a Clinical Trial Management System Using Blockchain Technology](https://github.com/Kwangkee/Digital-Healthcare/blob/main/BC4CrinicalTrial.md#re-engineering-a-clinical-trial-management-system-using-blockchain-technology)], https://www.jmir.org/2022/6/e36774/
 - Development of A blockchain framework for virtual clinical trials, https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ISEhE10AAAAJ&sortby=pubdate&citation_for_view=ISEhE10AAAAJ:Tyk-4Ss8FVUC
 - A Patient-Centric Health Information Exchange Framework Using Blockchain Technology, https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9090282
 
 ***
-## Ilhaam Aziz Omar
+## Researcher: Ilhaam Aziz Omar
 - Ilhaam Aziz Omar, https://scholar.google.com/citations?hl=ko&user=pUuYa_kAAAAJ&view_op=list_works&sortby=pubdate
 - Applications of blockchain technology in clinical trials: review and open challenges, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=pUuYa_kAAAAJ&sortby=pubdate&citation_for_view=pUuYa_kAAAAJ:9yKSN-GCB0IC  
 - Ensuring protocol compliance and data transparency in clinical trials using Blockchain smart contracts, https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=pUuYa_kAAAAJ&sortby=pubdate&citation_for_view=pUuYa_kAAAAJ:2osOgNQ5qMEC  
