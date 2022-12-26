@@ -10,6 +10,13 @@ Back to https://github.com/Kwangkee/Digital-Healthcare
 - Blockchain in Healthcare Today, https://blockchainhealthcaretoday.com/index.php/journal/index
 - Commercially Successful Blockchain Healthcare Projects: A Scoping Review, https://blockchainhealthcaretoday.com/index.php/journal/article/view/166
 
+***
+## Researcher: Khaled Salah
+- Khaled Salah, https://scholar.google.co.kr/citations?hl=ko&user=s2X97uIAAAAJ&view_op=list_works&sortby=pubdate
+- Blockchain for Patient Safety: Use Cases, Opportunities and Open Challenges, https://www.mdpi.com/2306-5729/7/12/182
+- A Blockchain-Based Regulatory Framework for mHealth, https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=s2X97uIAAAAJ&sortby=pubdate&citation_for_view=s2X97uIAAAAJ:DBa1UEJaJKAC
+- NFTs in Healthcare: Vision, Opportunities, and Challenges, https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0,5&q=NFTs+in+Healthcare:+Vision,+Opportunities,+and+Challenges&btnG
+- The role of blockchain technology in telehealth and telemedicine, https://www.sciencedirect.com/science/article/pii/S1386505621000253?via%3Dihub
 
 ***
 ## Researcher: Yan Zhuang
