@@ -2,6 +2,7 @@
 
 
 ## list
+- 흔하지만 다양해서 어려운 고혈압, https://www.snubh.org/service/info/com/view.do?BNO=471&Board_ID=B004&RNUM=3 
 
 - [[Korean Society of Hypertension](https://github.com/Kwangkee/Digital-Healthcare/blob/main/Cuffless.md#korean-society-of-hypertension)]
 - [[European Society of Hypertension](https://github.com/Kwangkee/Digital-Healthcare/blob/main/Cuffless.md#european-society-of-hypertension)]
