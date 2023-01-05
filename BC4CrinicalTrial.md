@@ -2,7 +2,8 @@
 Back to https://github.com/Kwangkee/Digital-Healthcare
 
 ## TBD
-- A Blockchain-Based End-to-End Data Protection Model for Personal Health Records Sharing: A Fully Homomorphic Encryption Approach, https://www.mdpi.com/1424-8220/23/1/14
+
+- Collaborating to evaluate blockchain in clinical trials, https://www.ibm.com/blockchain/resources/healthcare/#section-7  
 
 ***
 *** 
