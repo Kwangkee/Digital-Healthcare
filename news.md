@@ -1,6 +1,9 @@
 Back to https://github.com/Kwangkee/rPPG
 ***
 
+## KPMG
+- 코로나19 그 이후, 헬스케어 산업에 불어오는 변화의 바람, https://home.kpmg/kr/ko/home/insights/2022/06/issuemonitor_148.html
+- 3세대 신약 디지털 치료제의 투자동향과 미래전략, https://assets.kpmg/content/dam/kpmg/kr/pdf/2023/business-focus/kr-bf-2023-digital-therapeutics_20230105.pdf
 
 ***
 ## DTx
