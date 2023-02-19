@@ -17,3 +17,9 @@
 
 ## PulseDB
 - PulseDB: A large, cleaned dataset based on MIMIC-III and VitalDB for benchmarking cuff-less blood pressure estimation methods, https://www.frontiersin.org/articles/10.3389/fdgth.2022.1090854/full
+
+## FBS
+- Federated blockchain system (FBS) for the healthcare industry, https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=Federated+blockchain+system+%28FBS%29+for+the+healthcare+industry&btnG=
+>- Data availability, https://www.nature.com/articles/s41598-023-29813-4#data-availability
+
+- ShareChain: Blockchain‐enabled model for sharing patient data using federated learning and differential privacy, https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=ShareChain%3A+Blockchain%E2%80%90enabled+model+for+sharing+patient+data+using+federated+learning+and+differential+privacy&btnG=
