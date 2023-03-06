@@ -10,8 +10,8 @@ Back to https://github.com/Kwangkee/Digital-Healthcare
 >- 본지 확인 결과, 식약처는 ARICTT를 통한 과제 수행에 더해 올해 DCT를 제도화할 수 있는 방안 및 사례별 가이드라인을 마련할 계획이다. 현재 식약처는 DCT와 관련해 ▲(비대면) 임상시험 동의 ▲(DCT 적용) 디지털 기술 ▲환자의 효율적 모집 방안 등의 내용이 담긴 가이드라인을 만들어 공개할 예정이다.
 >- https://www.arictt.org/main
 
-
-
+## ETC
+- [헬스인·싸] 의료기기 규제혁신이 안전성 입증 완화라는 오해, https://www.rapportian.com/news/articleView.html?idxno=158243
 
 ***
 Back to the [Top](#papers)  
