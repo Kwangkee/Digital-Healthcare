@@ -6,17 +6,12 @@ Back to https://github.com/Kwangkee/Digital-Healthcare
  임상시험 디지털 전환 연구회 포럼 2022, https://www.konect.or.kr/kr/board/data/boardView.do?bbsIdx=3511
  
 임상시험 디지털 전환 연구회 포럼 2022 개최, https://www.konect.or.kr/kr/board/press/boardView.do?bbsIdx=3501  
--	https://movie.konect.or.kr/konect/221115/02.mp4, Global Waves: 분산형 임상시험(Decentralized Clinical Trials)으로의 전환
--	https://movie.konect.or.kr/konect/221115/03.mp4, 분산형 임상시험 요소기술의 개요, 분산형 임상시험 요소기술 Showcase, 
--	https://movie.konect.or.kr/konect/221115/04.mp4, 분산형 임상시험의 최신 동향, 시범 연구(Pilot Study)를 통한 한국의 분산형 임상시험 가능성 확인
--	https://movie.konect.or.kr/konect/221115/05.mp4, 관·산·학 전문가의 패널 토의
-
 임상시험 디지털 전환 연구회 포럼 2022 성공리 개최, http://www.medifonews.com/mobile/article.html?no=172242
 -	https://movie.konect.or.kr/konect/221115/01.mp4, 배병준 국가임상시험지원재단 이사장은 개회사를 통해 임상시험의 속도와 품질 향상을 위해 임상시험 디지털 전환 가속화가 필요하며, 이를 위한 정책당국과 사회적 독려가 필요하다고 강조했다.
--	https://movie.konect.or.kr/konect/221115/02.mp4, 김희영 메디데이터 부장은 ‘Global Waves: 분산형 임상시험으로의전환’을 주제로 글로벌 환경변화와 최신 동향을 소개했다.
--	https://movie.konect.or.kr/konect/221115/03.mp4, 이어 모의 임상시험에 참여한 6개 기관(올리브헬스케어, 마켄,인핸드플러스, 뷰노, 케어스퀘어, 메디데이터)은 보유한 요소기술을공유하고, 국내 분산형 임상시험 실현 방안을 모색하는 시간을 가졌다.
--	https://movie.konect.or.kr/konect/221115/04.mp4, 한승훈 서울성모병원 교수는 재단의 ‘비대면 임상시험 시스템 구축 지원사업’으로 수행 중인 완전 분산형 모의 임상시험 설계를소개하며 국내 분산형 임상시험 도입 가속화 의지를 다졌다. [임상시험 디지털 전환 연구회 포럼 2022] 국내 분산형 임상시험의 가속화 방안, https://www.konect.or.kr/kr/board/data/boardView.do?bbsIdx=3511 
--	https://movie.konect.or.kr/konect/221115/05.mp4, 마지막으로 분야별 전문가들의 패널토의를 통해 임상시험 디지털전환 과정에서의 주요 쟁점과 정책당국에 대한 건의 사항 등을 주제로 활발한 논의가 진행됐다.
+-	https://movie.konect.or.kr/konect/221115/02.mp4, Global Waves: 분산형 임상시험(Decentralized Clinical Trials)으로의 전환: 김희영 메디데이터 부장은 ‘Global Waves: 분산형 임상시험으로의전환’을 주제로 글로벌 환경변화와 최신 동향을 소개했다.
+-	https://movie.konect.or.kr/konect/221115/03.mp4, 분산형 임상시험 요소기술의 개요, 분산형 임상시험 요소기술 Showcase: 이어 모의 임상시험에 참여한 6개 기관(올리브헬스케어, 마켄,인핸드플러스, 뷰노, 케어스퀘어, 메디데이터)은 보유한 요소기술을공유하고, 국내 분산형 임상시험 실현 방안을 모색하는 시간을 가졌다.
+-	https://movie.konect.or.kr/konect/221115/04.mp4, 분산형 임상시험의 최신 동향, 시범 연구(Pilot Study)를 통한 한국의 분산형 임상시험 가능성 확인: 한승훈 서울성모병원 교수는 재단의 ‘비대면 임상시험 시스템 구축 지원사업’으로 수행 중인 완전 분산형 모의 임상시험 설계를소개하며 국내 분산형 임상시험 도입 가속화 의지를 다졌다. [임상시험 디지털 전환 연구회 포럼 2022] 국내 분산형 임상시험의 가속화 방안, https://www.konect.or.kr/kr/board/data/boardView.do?bbsIdx=3511 
+-	https://movie.konect.or.kr/konect/221115/05.mp4, 관·산·학 전문가의 패널 토의: 마지막으로 분야별 전문가들의 패널토의를 통해 임상시험 디지털전환 과정에서의 주요 쟁점과 정책당국에 대한 건의 사항 등을 주제로 활발한 논의가 진행됐다.
 
 ## 비대면 임상시험 시스템 구축
 「비대면 임상시험 시스템 구축」 지원사업  
