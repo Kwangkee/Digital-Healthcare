@@ -3,7 +3,7 @@ Back to https://github.com/Kwangkee/Digital-Healthcare
 
 ## 임상시험 디지털 전환 연구회 포럼 2022 
 
- https://www.konect.or.kr/kr/board/data/boardView.do?bbsIdx=3511
+ 임상시험 디지털 전환 연구회 포럼 2022, https://www.konect.or.kr/kr/board/data/boardView.do?bbsIdx=3511
  
 임상시험 디지털 전환 연구회 포럼 2022 개최, https://www.konect.or.kr/kr/board/press/boardView.do?bbsIdx=3501  
 -	https://movie.konect.or.kr/konect/221115/02.mp4, Global Waves: 분산형 임상시험(Decentralized Clinical Trials)으로의 전환
