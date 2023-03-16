@@ -1,6 +1,7 @@
 Back to https://github.com/Kwangkee/Digital-Healthcare
 ***
 
+## 임상시험 디지털 전환 연구회 포럼 2022 
 
 임상시험 디지털 전환 연구회 포럼 2022 개최, https://www.konect.or.kr/kr/board/press/boardView.do?bbsIdx=3501  
 -	https://movie.konect.or.kr/konect/221115/02.mp4, Global Waves: 분산형 임상시험(Decentralized Clinical Trials)으로의 전환
@@ -15,7 +16,8 @@ Back to https://github.com/Kwangkee/Digital-Healthcare
 -	https://movie.konect.or.kr/konect/221115/04.mp4, 한승훈 서울성모병원 교수는 재단의 ‘비대면 임상시험 시스템 구축 지원사업’으로 수행 중인 완전 분산형 모의 임상시험 설계를소개하며 국내 분산형 임상시험 도입 가속화 의지를 다졌다. [임상시험 디지털 전환 연구회 포럼 2022] 국내 분산형 임상시험의 가속화 방안, https://www.konect.or.kr/kr/board/data/boardView.do?bbsIdx=3511 
 -	https://movie.konect.or.kr/konect/221115/05.mp4, 마지막으로 분야별 전문가들의 패널토의를 통해 임상시험 디지털전환 과정에서의 주요 쟁점과 정책당국에 대한 건의 사항 등을 주제로 활발한 논의가 진행됐다.
 
-「비대면 임상시험 시스템 구축」 지원사업
+## 비대면 임상시험 시스템 구축
+「비대면 임상시험 시스템 구축」 지원사업  
 -	「비대면 임상시험 시스템 구축」 지원사업 공고, https://www.konect.or.kr/kr/board/businessposting/boardView.do?bbsIdx=3315&pageIndex=2&searchCondition=all&searchKeyword=&viewMode=
 -	「비대면 임상시험 시스템 구축」지원사업 평가결과, https://www.konect.or.kr/kr/board/notice/boardView.do?bbsIdx=3364
 -	가톨릭의대 한승훈 교수, ‘비대면 임상시험 시스템 구축 지원사업’ 선정, https://www.medifonews.com/mobile/article.html?no=169014
@@ -41,8 +43,6 @@ Cases
 Etc.
 -	임상시험지원재단, 원스톱 스마트 임상시험 구축사업 공모, https://www.docdocdoc.co.kr/news/articleView.html?idxno=2023926
 -	국가 임상시험 관리시스템 고도화 및 확산 지원」 사업 재공고, https://www.konect.or.kr/kr/board/businessposting/boardView.do?bbsIdx=3336&pageIndex=2&searchCondition=all&searchKeyword=&viewMode=
-
-
 
 
 ## DCT
