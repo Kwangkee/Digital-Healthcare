@@ -34,12 +34,12 @@ https://www.linkedin.com/pulse/health-home-role-tech-modern-living-elizabeth-par
 But, again, smartwatches are not the only devices consumers are interested in acquiring for personal or household use. Intentions to purchase connected weight scales, blood pressure cuffs, and thermometers have doubled year-over-year. Consumers want better insight into their health, a better ability to care for their family, and they are looking for solutions to help them do so at home.
 
 ****
+## AiCure
 
 https://aicure.com/company/   
 AiCure delivers patient insights to improve clinical trials. As the only company to provide a holistic view of the patient, AiCure directly engages patients via smartphones to deliver meaningful, high-quality data around patient behavior to sponsors and sites.   
 
 These insights from AiCure’s proprietary AI platform empower sites to better support patients and sponsors to implement the right trial for the right patient, helping drive greater understanding of drug efficacy, accelerate timelines, and reduce trial costs and variability.   
-
 
 https://aicure.com/  
 Open-Source AI Platforms: Driving Success through Diversity, https://aicure.com/blog/opinion/open-source-ai-platforms-driving-success-through-diversity/  
