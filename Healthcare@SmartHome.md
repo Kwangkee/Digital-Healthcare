@@ -37,7 +37,14 @@ But, again, smartwatches are not the only devices consumers are interested in ac
 ## AiCure
 - AiCure's software helps clinical trial participants with trial protocols and medication adherence while giving drug sponsors and clinical trial sites deeper understanding of treatment effects.
 
-https://aicure.com/  
+https://aicure.com/   
+- AiCure's solutions will help ensure clinical trials achieve statistical power and capture clinically meaningful, objective data.
+- Gain advantages in drug development with:
+>- AiCure Patient Connect - Improved medication adherence rates and patient engagement
+>- AiCure Platform - More power to analyze and predict treatment response using digital biomarkers
+>- AiCure Site Services - Reduced clinical tech burden so site personnel can increase focus on patients
+
+https://aicure.com/solutions  
 - AiCure Patient Connect: A mobile app used by participants for real time dosing instructions and leveraging computer vision to ensure medication adherence. Patient Connect provides secure call, SMS and video chat, as well as configurable ePRO capabilities to reduce the burden on patients and improve their experience.
 - AiCure Platform: A regulatory-compliant AI-platform that captures and analyzes behavioral variables called digital biomarkers for better understanding and prediction of participant behavior and response to treatment.
 - AiCure Site Services: Eases site technology burden, giving personnel more time to focus on patients through direct access to AiCure experts, individualized site training and ad-hoc support based on issue trends.
