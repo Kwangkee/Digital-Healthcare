@@ -53,10 +53,7 @@ https://aicure.com/opendbm
 - Open-Source AI Platforms: Driving Success through Diversity, https://aicure.com/blog/opinion/open-source-ai-platforms-driving-success-through-diversity/  
 - Why open-source AI platforms are the future of patient health tracking in clinical trials, https://aicure.com/blog/opinion/why-open-source-ai-platforms-are-the-future-of-patient-health-tracking-in-clinical-trials/  
 - Why we made our digital biomarker code open source, https://aicure.com/blog/opinion/why-we-made-our-digital-biomarker-code-open-source/    
-   
-Vijay Yadav, https://scholar.google.com/citations?hl=en&user=peiNzcIAAAAJ&view_op=list_works&sortby=pubdate
-
-Facial and Vocal Markers of Schizophrenia Measured Using Remote Smartphone Assessments: Observational Study, https://pubmed.ncbi.nlm.nih.gov/35060906/
+- Facial and Vocal Markers of Schizophrenia Measured Using Remote Smartphone Assessments: Observational Study, https://pubmed.ncbi.nlm.nih.gov/35060906/
 
 https://www.dataart.com/blog/designing-for-healthcare-five-tips-for-ux-development   
 https://www.dataart.com/industries/healthcare-and-life-sciences   
