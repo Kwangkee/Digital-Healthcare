@@ -49,32 +49,14 @@ https://aicure.com/solutions
 - AiCure Platform: A regulatory-compliant AI-platform that captures and analyzes behavioral variables called digital biomarkers for better understanding and prediction of participant behavior and response to treatment.
 - AiCure Site Services: Eases site technology burden, giving personnel more time to focus on patients through direct access to AiCure experts, individualized site training and ad-hoc support based on issue trends.
 
-
-https://aicure.com/company/   
-AiCure delivers patient insights to improve clinical trials. As the only company to provide a holistic view of the patient, AiCure directly engages patients via smartphones to deliver meaningful, high-quality data around patient behavior to sponsors and sites.   
-
-These insights from AiCure’s proprietary AI platform empower sites to better support patients and sponsors to implement the right trial for the right patient, helping drive greater understanding of drug efficacy, accelerate timelines, and reduce trial costs and variability.   
-
-https://aicure.com/  
-Open-Source AI Platforms: Driving Success through Diversity, https://aicure.com/blog/opinion/open-source-ai-platforms-driving-success-through-diversity/  
-Why open-source AI platforms are the future of patient health tracking in clinical trials, https://aicure.com/blog/opinion/why-open-source-ai-platforms-are-the-future-of-patient-health-tracking-in-clinical-trials/  
-Why we made our digital biomarker code open source, https://aicure.com/blog/opinion/why-we-made-our-digital-biomarker-code-open-source/    
-AICURE MAKES CODE OPEN SOURCE TO ADVANCE DIGITAL BIOMARKER DEVELOPMENT, https://aicure.com/opendbm/
-https://github.com/AiCure/open_dbm    
-
-- Validation of Visual and Auditory Digital Markers of Suicidality in Acutely Suicidal Psychiatric Inpatients: Proof-of-Concept Study, https://www.jmir.org/2021/6/e25199   
-- Remote digital measurement of visual and auditory markers of Major Depressive Disorder severity and treatment response, https://www.medrxiv.org/content/10.1101/2020.08.24.20178004v1
-- Computer Vision-Based Assessment of Motor Functioning in Schizophrenia: Use of Smartphones for Remote Measurement of Schizophrenia Symptomatology, https://pubmed.ncbi.nlm.nih.gov/33615120/
-- P.267 Using smartphone-recorded facial and verbal features to predict clinical functioning in individuals with neuropsychiatric disorders, https://www.semanticscholar.org/paper/P.267-Using-smartphone-recorded-facial-and-verbal-Abbas-Yadav/93d2b0742b562585a61eef10d73f114b9be904f2
-- Facial and vocal markers of schizophrenia measured using remote smartphone assessments, https://www.researchgate.net/publication/347377162_Facial_and_vocal_markers_of_schizophrenia_measured_using_remote_smartphone_assessments
-
-
-
-
+https://aicure.com/opendbm
+- Open-Source AI Platforms: Driving Success through Diversity, https://aicure.com/blog/opinion/open-source-ai-platforms-driving-success-through-diversity/  
+- Why open-source AI platforms are the future of patient health tracking in clinical trials, https://aicure.com/blog/opinion/why-open-source-ai-platforms-are-the-future-of-patient-health-tracking-in-clinical-trials/  
+- Why we made our digital biomarker code open source, https://aicure.com/blog/opinion/why-we-made-our-digital-biomarker-code-open-source/    
+   
 Vijay Yadav, https://scholar.google.com/citations?hl=en&user=peiNzcIAAAAJ&view_op=list_works&sortby=pubdate
 
 Facial and Vocal Markers of Schizophrenia Measured Using Remote Smartphone Assessments: Observational Study, https://pubmed.ncbi.nlm.nih.gov/35060906/
-
 
 https://www.dataart.com/blog/designing-for-healthcare-five-tips-for-ux-development   
 https://www.dataart.com/industries/healthcare-and-life-sciences   
