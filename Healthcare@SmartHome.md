@@ -55,6 +55,7 @@ https://aicure.com/opendbm
 - Why we made our digital biomarker code open source, https://aicure.com/blog/opinion/why-we-made-our-digital-biomarker-code-open-source/    
 - Facial and Vocal Markers of Schizophrenia Measured Using Remote Smartphone Assessments: Observational Study, https://pubmed.ncbi.nlm.nih.gov/35060906/
 
+****
 https://www.dataart.com/blog/designing-for-healthcare-five-tips-for-ux-development   
 https://www.dataart.com/industries/healthcare-and-life-sciences   
 https://www.dataart.com/industries/healthcare-and-life-sciences/clinical-trial-software   
