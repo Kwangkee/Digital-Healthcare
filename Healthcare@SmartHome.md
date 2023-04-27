@@ -36,6 +36,9 @@ But, again, smartwatches are not the only devices consumers are interested in ac
 ****
 ## AiCure
 - AiCure's software helps clinical trial participants with trial protocols and medication adherence while giving drug sponsors and clinical trial sites deeper understanding of treatment effects.
+- [YouTube] AiCure - Artificial Intelligence for Continuous Patient Monitoring, https://www.youtube.com/watch?v=xBpvK_VxiXM 
+- [YouTube] AiCure’s AWS-Powered Platform Supports Clinical Trials by Learning Patient Behavior, https://www.youtube.com/watch?v=LNCxTJaHthc 
+
 
 https://aicure.com/   
 - AiCure's solutions will help ensure clinical trials achieve statistical power and capture clinically meaningful, objective data.
